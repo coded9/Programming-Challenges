@@ -1,12 +1,13 @@
 #Stair Case
 For a given number n ,here 6
-
+```
      #
     ##
    ###
   ####
  #####
 ######
+```
 
 ```
 import java.io.*;

@@ -68,4 +68,4 @@ class Stockroom
 }
 
 ```
-- See more at: http://stockroom.io/user/prime/26#problemslist
+

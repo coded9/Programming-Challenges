@@ -1,7 +1,7 @@
 https://www.hackerearth.com/problem/algorithm/cricket-rating-30/
-Max Sub array
+Max Sub array 
 Bruteforce approach
-```
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
@@ -53,4 +53,4 @@ class TestClass {
     }
 }
 
-```
+

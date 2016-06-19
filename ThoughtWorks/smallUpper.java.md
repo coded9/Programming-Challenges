@@ -26,7 +26,8 @@ class TestClass {
                  lineS = line.replaceAll("[A-Z]*","");
                  lineC = line.replaceAll("[a-z]*","");
               // System.out.println(lineS+" "+lineC);  
-            System.out.println(lineS.length()>lineC.length()?lineS.length()>0?line.length()-lineS.length():0:lineC.length()>0?line.length()-lineC.length():0);
+           /* System.out.println(lineS.length()>lineC.length()?lineS.length()>0?line.length()-lineS.length():0:lineC.length()>0?line.length()-lineC.length():0);*/
+           System.out.println(Math.min(lineS.length(),lineC.length())); 
                
             }
             else{
